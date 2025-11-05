@@ -1,0 +1,15 @@
+<!doctype>
+<html>
+<head>
+  <tittle>my cv</tittle>
+</head>
+<body>
+<h1>rahama nuradden cv</h1>
+<h2>Biodata</h2>
+<o1>
+<li>Gender:female</li>
+</o1>
+<h2>Education</h2>
+<h2>skills</h2>
+</body>
+</html>-+
